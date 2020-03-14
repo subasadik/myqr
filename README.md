@@ -5,7 +5,7 @@
 
 1. Tambahkan button di login.html
 ```
-<button onclick="window.location='https://laksa19.github.io/myqr';">QR Code</button>
+<button onclick="window.location='https://subasadik.github.io/myqr';">QR Code</button>
 ```
 2. Tambahkan script berikut di MikroTik via Terminal.
 ```
